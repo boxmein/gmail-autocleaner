@@ -1,0 +1,13 @@
+{
+  "name": "gmail-autocleaner",
+  "version": "1.0.0",
+  "description": "Automatically clean up your Gmail emails based on your own preferences",
+  "main": "index.js",
+  "repository": "git@github.com:boxmein/gmail-autocleaner.git",
+  "author": "boxmein <wsdf294@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@google/clasp": "^2.3.0"
+  }
+}
