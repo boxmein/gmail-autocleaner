@@ -6,7 +6,12 @@
   "repository": "git@github.com:boxmein/gmail-autocleaner.git",
   "author": "boxmein <wsdf294@gmail.com>",
   "license": "MIT",
-  "private": false,
+  "scripts": {
+    "start": "clasp run",
+    "pull": "clasp pull",
+    "push": "clasp push",
+    "deploy": "clasp deploy"
+  },
   "dependencies": {
     "@google/clasp": "^2.3.0"
   }
