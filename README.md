@@ -1,5 +1,8 @@
 # Gmail Autocleaner
 
+[![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
+
+
 This app cleans up your Gmail archive automatically, depending on your own
 suggestions.
 
